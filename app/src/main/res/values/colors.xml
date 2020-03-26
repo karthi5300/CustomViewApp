@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--TO CHANGE CIRCLE, TEXT COLOR-->
+    <color name="circleColor">#d2630f</color>
+    <color name="textColor">#0f15d2</color>
+</resources>
